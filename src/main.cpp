@@ -1,3 +1,8 @@
+/*
+    main.cpp
+    Copyright (C) 2026 Gonçalo João. All Rights Reserved.
+*/
+
 #include <iostream>
 
 template <class t>
